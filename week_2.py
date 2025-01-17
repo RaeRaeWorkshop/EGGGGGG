@@ -40,3 +40,28 @@
 #     if x == "banana":
 #         print(i)
 #     i += 1
+
+#functions
+# def my_function(string, gay):
+#     print("hello")
+#     print(string)
+#     print(gay)
+
+# my_function("Adam", "Rae")
+
+# def my_function(lamp, tree):
+#     total = int(lamp) + int(tree) 
+#     print("total is " + str(total))
+
+
+# def sub(lamp, tree):
+#     total = int(lamp) - int(tree) 
+#     print("total is " + str(total))
+
+
+
+# first = input("enter first number: ")
+# second = input("enter second number: ")
+# sub(first, second)
+# sub(second, first)
+# my_function(first, second)
